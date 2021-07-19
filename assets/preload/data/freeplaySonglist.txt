@@ -1,4 +1,3 @@
 outofplace:hex:1
 dice-man:bloxiam:1
-stuck in nowhere:angry hex:2
 chubino:chubino:3
