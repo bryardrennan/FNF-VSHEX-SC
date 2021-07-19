@@ -7,8 +7,8 @@ FNF Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgroun
 # Credits
 
 ### VS. Hex
-[Shpeelock](https://twitter.com/Shpeelock) - Creator of Hex, did basically all the stuff.
-[Bloximator](https://twitter.com/Bloximator) - Main Menu Art.
+- [Shpeelock](https://twitter.com/Shpeelock) - Creator of Hex, did basically all the stuff.
+- [Bloximator](https://twitter.com/Bloximator) - Main Menu Art.
 
 ### Friday Night Funkin'
  - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
