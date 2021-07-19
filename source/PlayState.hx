@@ -355,7 +355,7 @@ class PlayState extends MusicBeatState
 				{
 						defaultCamZoom = 0.7;
 						curStage = 'reulin';
-						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('reulin'));
+						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('hex/reulin'));
 						bg.antialiasing = true;
 						bg.scrollFactor.set(0.9, 0.9);
 						bg.active = false;
@@ -366,24 +366,13 @@ class PlayState extends MusicBeatState
 				{
 						defaultCamZoom = 0.7;
 						curStage = 'chubsland';
-						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('chubsland'));
+						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('hex/chubsland'));
 						bg.antialiasing = true;
 						bg.scrollFactor.set(0.9, 0.9);
 						bg.active = false;
 						add(bg);
 
-				}	
-			case 'thevoid':
-				{
-						defaultCamZoom = 0.8;
-						curStage = 'thevoid';
-						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('thevoid'));
-						bg.antialiasing = true;
-						bg.scrollFactor.set(0.9, 0.9);
-						bg.active = false;
-						add(bg);
-
-				}			
+				}				
 			default:
 			{
 					defaultCamZoom = 0.9;
@@ -627,7 +616,7 @@ class PlayState extends MusicBeatState
 		healthBar = new FlxBar(healthBarBG.x + 4, healthBarBG.y + 4, RIGHT_TO_LEFT, Std.int(healthBarBG.width - 8), Std.int(healthBarBG.height - 8), this,
 			'health', 0, 2);
 		healthBar.scrollFactor.set();
-		healthBar.createFilledBar(0xFFFF0000, 0xFF66FF33);
+		healthBar.createFilledBar(FlxColor.fromString('#' + dad.iconColor), FlxColor.fromString('#' + boyfriend.iconColor));
 		// healthBar
 		add(healthBar);
 

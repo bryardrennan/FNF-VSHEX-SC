@@ -16,7 +16,7 @@ class Character extends FlxSprite
 	public var curCharacter:String = 'bf';
 
 	public var holdTimer:Float = 0;
-
+	public var iconColor:String = "FF82d4f5";
 	public function new(x:Float, y:Float, ?character:String = "bf", ?isPlayer:Bool = false)
 	{
 		super(x, y);
@@ -309,7 +309,7 @@ class Character extends FlxSprite
 				flipX = true;
 
 			case 'bf-horrified':
-				var tex = Paths.getSparrowAtlas('characters/bfHorrified', 'shared');
+				var tex = Paths.getSparrowAtlas('hex/bfHorrified', 'shared');
 				frames = tex;
 
 				trace(tex.frames.length);
@@ -540,7 +540,8 @@ class Character extends FlxSprite
 
 			case 'hex':
 				// boy if you dont
-				tex = Paths.getSparrowAtlas('characters/hex', 'shared');
+				iconColor = "FFD35656";
+				tex = Paths.getSparrowAtlas('hex/hex', 'shared');
 				frames = tex;
 				animation.addByPrefix('idle', 'Idle', 30);
 				animation.addByPrefix('singUP', 'Up', 30);
@@ -558,7 +559,8 @@ class Character extends FlxSprite
 			
 			case 'bloxiam':
 				// bloxiam kept crashing the game i hate bloxiam
-				tex = Paths.getSparrowAtlas('characters/bloxiam', 'shared');
+				iconColor = "FFAE302E";
+				tex = Paths.getSparrowAtlas('hex/bloxiam', 'shared');
 				frames = tex;
 				animation.addByPrefix('idle', 'Idle', 24);
 				animation.addByPrefix('singUP', 'Up', 24);
@@ -576,7 +578,8 @@ class Character extends FlxSprite
 
 			case 'chubino':
 				// i love chubino
-				tex = Paths.getSparrowAtlas('characters/chubino', 'shared');
+				iconColor = "FFFFFFFF";
+				tex = Paths.getSparrowAtlas('hex/chubino', 'shared');
 				frames = tex;
 				animation.addByPrefix('idle', 'chabino idle', 24);
 				animation.addByPrefix('singUP', 'chabino up', 24);
@@ -591,24 +594,6 @@ class Character extends FlxSprite
 				addOffset("singDOWN", -9, -239);
 
 				playAnim('idle');
-			case 'angry hex':
-				// boy he diddd
-				tex = Paths.getSparrowAtlas('characters/angry hex', 'shared');
-				frames = tex;
-				animation.addByPrefix('idle', 'hexangry idle', 24);
-				animation.addByPrefix('singUP', 'hexangry up', 24);
-				animation.addByPrefix('singRIGHT', 'hexangry right', 24);
-				animation.addByPrefix('singDOWN', 'hexangry down', 24);
-				animation.addByPrefix('singLEFT', 'hexangry left', 24);
-
-				addOffset('idle', -4, -60);
-				addOffset("singUP", -126, 36);
-				addOffset("singRIGHT", -60, -109);
-				addOffset("singLEFT", 320, -96);
-				addOffset("singDOWN", 81, -459);
-
-				playAnim('idle');
-		
 		dance();
 	}
 		if (isPlayer)
