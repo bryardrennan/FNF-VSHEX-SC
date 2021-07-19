@@ -344,8 +344,6 @@ class PlayState extends MusicBeatState
 				dialogue = CoolUtil.coolTextFile(Paths.txt('thorns/thornsDialogue'));	
 			case 'outofplace':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('outofplace/dialog'));	
-			case 'stuck in nowhere':
-				dialogue = CoolUtil.coolTextFile(Paths.txt('stuck in nowhere/dialog'));
 		}
 
 		switch(SONG.stage)
