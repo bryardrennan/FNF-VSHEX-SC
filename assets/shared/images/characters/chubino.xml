@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chubino.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chabino down0000" x="0" y="0" width="572" height="226" frameX="-16" frameY="-17" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0001" x="572" y="0" width="585" height="233" frameX="-9" frameY="-10" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0002" x="1157" y="0" width="593" height="238" frameX="-5" frameY="-5" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0003" x="1750" y="0" width="599" height="240" frameX="-2" frameY="-3" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0004" x="2349" y="0" width="601" height="243" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0005" x="2950" y="0" width="602" height="243" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0006" x="0" y="243" width="602" height="242" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0007" x="602" y="243" width="603" height="243" frameX="0" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0008" x="1205" y="243" width="603" height="244"/>
+	<SubTexture name="chabino down0009" x="1808" y="243" width="602" height="244" frameX="-1" frameY="0" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0010" x="2410" y="243" width="602" height="243" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0011" x="3012" y="243" width="602" height="243" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0012" x="3012" y="243" width="602" height="243" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0013" x="3012" y="243" width="602" height="243" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino down0014" x="3012" y="243" width="602" height="243" frameX="-1" frameY="-1" frameWidth="603" frameHeight="244"/>
+	<SubTexture name="chabino idle0000" x="0" y="487" width="656" height="207" frameX="0" frameY="-19" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0001" x="656" y="487" width="625" height="215" frameX="-16" frameY="-13" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0002" x="1281" y="487" width="603" height="221" frameX="-27" frameY="-9" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0003" x="1884" y="487" width="589" height="224" frameX="-33" frameY="-6" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0004" x="2473" y="487" width="579" height="227" frameX="-37" frameY="-4" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0005" x="3052" y="487" width="572" height="229" frameX="-39" frameY="-2" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0006" x="0" y="716" width="570" height="230" frameX="-39" frameY="-1" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0007" x="570" y="716" width="568" height="230" frameX="-39" frameY="-1" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0008" x="1138" y="716" width="567" height="231" frameX="-39" frameY="0" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0009" x="1705" y="716" width="567" height="231" frameX="-39" frameY="0" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0010" x="2272" y="716" width="566" height="231" frameX="-39" frameY="0" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0011" x="2838" y="716" width="566" height="231" frameX="-39" frameY="0" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0012" x="3404" y="716" width="566" height="231" frameX="-39" frameY="0" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0013" x="3404" y="716" width="566" height="231" frameX="-39" frameY="0" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino idle0014" x="3404" y="716" width="566" height="231" frameX="-39" frameY="0" frameWidth="656" frameHeight="231"/>
+	<SubTexture name="chabino left0000" x="0" y="947" width="573" height="218" frameX="-2" frameY="0" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0001" x="573" y="947" width="576" height="216" frameX="-1" frameY="-2" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0002" x="1149" y="947" width="578" height="214" frameX="0" frameY="-4" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0003" x="1727" y="947" width="578" height="214" frameX="0" frameY="-4" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0004" x="2305" y="947" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0005" x="2884" y="947" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0006" x="3463" y="947" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0007" x="0" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0008" x="579" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0009" x="1158" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0010" x="1158" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0011" x="1158" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0012" x="1158" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0013" x="1158" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino left0014" x="1158" y="1165" width="579" height="213" frameX="0" frameY="-5" frameWidth="579" frameHeight="218"/>
+	<SubTexture name="chabino right0000" x="1737" y="1165" width="600" height="230" frameX="0" frameY="-2" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0001" x="2337" y="1165" width="601" height="231" frameX="0" frameY="-1" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0002" x="2938" y="1165" width="601" height="231" frameX="0" frameY="-1" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0003" x="0" y="1396" width="601" height="231" frameX="0" frameY="-1" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0004" x="601" y="1396" width="601" height="231" frameX="0" frameY="-1" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0005" x="1202" y="1396" width="601" height="231" frameX="0" frameY="-1" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0006" x="1803" y="1396" width="601" height="231" frameX="0" frameY="0" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0007" x="2404" y="1396" width="601" height="232"/>
+	<SubTexture name="chabino right0008" x="3005" y="1396" width="601" height="232"/>
+	<SubTexture name="chabino right0009" x="0" y="1628" width="601" height="231" frameX="0" frameY="0" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0010" x="0" y="1628" width="601" height="231" frameX="0" frameY="0" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0011" x="601" y="1628" width="601" height="231" frameX="0" frameY="0" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0012" x="601" y="1628" width="601" height="231" frameX="0" frameY="0" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0013" x="601" y="1628" width="601" height="231" frameX="0" frameY="0" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino right0014" x="601" y="1628" width="601" height="231" frameX="0" frameY="0" frameWidth="601" frameHeight="232"/>
+	<SubTexture name="chabino up0000" x="1202" y="1628" width="324" height="416" frameX="-5" frameY="0" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0001" x="1526" y="1628" width="325" height="402" frameX="-2" frameY="-14" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0002" x="1851" y="1628" width="325" height="395" frameX="-1" frameY="-21" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0003" x="2176" y="1628" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0004" x="2501" y="1628" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0005" x="2826" y="1628" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0006" x="3151" y="1628" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0007" x="3476" y="1628" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0008" x="0" y="2044" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0009" x="325" y="2044" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0010" x="325" y="2044" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0011" x="325" y="2044" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0012" x="325" y="2044" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0013" x="325" y="2044" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+	<SubTexture name="chabino up0014" x="325" y="2044" width="325" height="392" frameX="0" frameY="-24" frameWidth="329" frameHeight="416"/>
+</TextureAtlas>
