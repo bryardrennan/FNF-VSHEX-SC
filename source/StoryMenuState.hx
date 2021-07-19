@@ -25,7 +25,6 @@ class StoryMenuState extends MusicBeatState
 
 	var weekData:Array<Dynamic> = [
 		['outofplace', 'dice-man'],
-		['stuck in nowhere']
 	];
 	var curDifficulty:Int = 1;
 
@@ -38,7 +37,6 @@ class StoryMenuState extends MusicBeatState
 
 	var weekNames:Array<String> = [
 		"Hexagonal Theft",
-		"bloxiam"
 	];
 
 	var txtWeekTitle:FlxText;
