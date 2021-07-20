@@ -2176,7 +2176,7 @@ class PlayState extends MusicBeatState
 				if (storyPlaylist.length <= 0)
 				{
 					//MainMenuState.reRoll = true;
-					LoadingState.loadAndSwitchState(new VideoState("assets/videos/daWeirdVid/dontDelete.webm", new MainMenuState()));
+					LoadingState.loadAndSwitchState(new VideoState("assets/videos/bloxiamangry/heisangry.webm", new MainMenuState()));
 
 					if (storyDifficulty == 2)
 					FlxG.save.data.beatenHard = true;
